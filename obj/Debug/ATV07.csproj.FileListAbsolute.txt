@@ -1,0 +1,7 @@
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\obj\Debug\ATV07.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\bin\Debug\ATV07.exe.config
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\bin\Debug\ATV07.exe
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\bin\Debug\ATV07.pdb
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\obj\Debug\ATV07.exe
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\obj\Debug\ATV07.pdb
+C:\Users\wendell.mcardoso\source\repos\ATV07\ATV07\obj\Debug\ATV07.csproj.AssemblyReference.cache
