@@ -83,36 +83,36 @@ namespace ATV07
             {
                 notafinal = nota;
                 Console.WriteLine($"o numero maior é {nota}");
-                return;
+                
 
             }if(nota > nota3)
             {
                 notafinal = nota;
                 Console.WriteLine($"o numero maior é {nota}");
-                return;
+                
             }if(nota2 > nota)
             {
                 notafinal = nota2;
                 Console.WriteLine($"o numero maior é {nota2}");
-                return;
+                
             }if (nota2 > nota3)
             {
                 notafinal = nota2;
                 Console.WriteLine($"o numero maior é {nota2}");
-                return;
+                
             }if(nota3 > nota)
             {
                 notafinal = nota3;
                 Console.WriteLine($"o numero maior é {nota3}");
-                return;
+                
             }if(nota3 > nota2)
             {
                 notafinal = nota3;
                 Console.WriteLine($"o numero maior é {nota3}");
-                return;
+                
 
             }
-
+            return;
             
              
 
