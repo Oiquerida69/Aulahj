@@ -126,7 +126,7 @@ namespace ATV07
             int numero1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite mais um numero");
             int numero2 = int.Parse(Console.ReadLine());
-            int valorfinal = numero1 / numero2;
+            int valorfinal = numero1 % numero2;
             if (valorfinal < 0)
             {
                 Console.WriteLine($"a divisão do {numero1} pelo {numero2} é exata");
